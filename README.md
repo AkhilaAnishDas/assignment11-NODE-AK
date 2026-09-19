@@ -57,7 +57,7 @@ project/
 
 ### Screenshot — Project Structure & MongoDB Connection
 
-![Project Structure and MongoDB Connection](01-folder-structure-mongodb-connection.png)
+![Project Structure and MongoDB Connection](SCREENSHOTZ/01-folder-structure-mongodb-connection.png)
 
 The screenshot shows the separate `schema`, `model`, and `router` folders along with the server setup. It also shows the application running successfully and MongoDB connected.
 
@@ -97,7 +97,7 @@ POST /teacher/register
 
 ### Screenshot — Successful Teacher Registration
 
-![Successful Teacher Registration](02-teacher-registration-success.png)
+![Successful Teacher Registration](SCREENSHOTZ/02-teacher-registration-success.png)
 
 The API request successfully registers a teacher and returns:
 
@@ -130,7 +130,7 @@ POST /student/register
 
 ### Screenshot — Successful Student Registration
 
-![Successful Student Registration](03-student-registration-success.png)
+![Successful Student Registration](SCREENSHOTZ/03-student-registration-success.png)
 
 The API successfully registers a student and returns:
 
@@ -151,7 +151,7 @@ For example, when a required password field is left empty, the request is reject
 
 ### Screenshot — Validation Error
 
-![Teacher Registration Validation](04-teacher-registration-validation.png)
+![Teacher Registration Validation](SCREENSHOTZ/04-teacher-registration-validation.png)
 
 The API returns:
 
@@ -194,7 +194,7 @@ collection inside the MongoDB database.
 
 ### Screenshot — Teacher Data Stored in MongoDB
 
-![Teacher Data in MongoDB](05-teacher-data-mongodb.png)
+![Teacher Data in MongoDB](SCREENSHOTZ/05-teacher-data-mongodb.png)
 
 The document contains the teacher's:
 
@@ -220,7 +220,7 @@ collection.
 
 ### Screenshot — Student Data Stored in MongoDB
 
-![Student Data in MongoDB](06-student-data-mongodb.png)
+![Student Data in MongoDB](SCREENSHOTZ/06-student-data-mongodb.png)
 
 The document contains the student's:
 
@@ -331,10 +331,3 @@ The project demonstrates:
 - API testing using Thunder Client
 
 The screenshots included above provide visual evidence of the **project structure, MongoDB connection, successful teacher registration, successful student registration, validation, and database storage with hashed passwords**.
-
----
-
-## 👤 Student Details
-
-**Name:** Akhila Anish Das  
-**Roll No:** 150096725016
